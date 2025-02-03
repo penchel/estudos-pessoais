@@ -18,7 +18,7 @@
 ## Funções e Recursão
 - **Fatorial recursivo**: Escreva uma função recursiva para calcular o fatorial de um número.
 - **Palíndromo**: Crie uma função que verifique se uma string é um palíndromo.
-- **Ordenação personalizada**: Escreva uma função que implemente o algoritmo de ordenação por seleção (Selection Sort).
+- **Ordenação personalizada**: Escreva uma função que implemente o algoritmo de ordenação por inserção (Insertion Sort).
 
 ## Manipulação de Arquivos
 - **Leitura de arquivos**: Crie um programa que leia um arquivo de texto e exiba o conteúdo em letras maiúsculas.
