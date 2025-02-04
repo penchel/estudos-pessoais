@@ -21,7 +21,7 @@
 - **Ordenação personalizada**: Escreva uma função que implemente o algoritmo de ordenação por inserção (Insertion Sort).
 
 ## Manipulação de Arquivos
-- **Leitura de arquivos**: Crie um programa que leia um arquivo de texto e exiba o conteúdo em letras maiúsculas.
+- **Leitura de larquivos**: Crie um programa que leia um arquivo de texto e exiba o conteúdo em letras maiúsculas.
 - **Análise de logs**: Escreva um script que analise um arquivo de log (criado manualmente ou baixado) e mostre o número de linhas, palavras e caracteres.
 
 ## POO (Programação Orientada a Objetos)
