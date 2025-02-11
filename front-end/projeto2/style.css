@@ -1,0 +1,13 @@
+#switch{
+    visibility: hidden; /*escondeu o input*/
+    clip: rect(0 0 0 0);/*deixa ele ainda acessível*/
+    position: absolute; /*impede que ele ocupe espaço na página*/
+    left: 9999px; /*Joga o input pra direita da página fora de qualquer alcance*/
+}
+
+.switch{
+    display: block; /*ocupa a linha toda*/
+    width: 130px; /*define a largura em 130px*/
+    height: 60px;
+    margin: 70px auto;
+}
