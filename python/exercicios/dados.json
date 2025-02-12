@@ -1,0 +1,29 @@
+{
+    "nome": "João",
+    "idade": 30,
+    "cidade": "São Paulo",
+    "hobbies": [
+        "futebol",
+        "leitura",
+        "música"
+    ],
+    "profissao": "Engenheiro",
+    "contatos": {
+        "email": "joao@email.com",
+        "telefone": "11987654321"
+    },
+    "enderecos": [
+        {
+            "tipo": "residencial",
+            "rua": "Rua das Flores",
+            "numero": 123,
+            "bairro": "Centro"
+        },
+        {
+            "tipo": "trabalho",
+            "rua": "Avenida Paulista",
+            "numero": 456,
+            "bairro": "Bela Vista"
+        }
+    ]
+}

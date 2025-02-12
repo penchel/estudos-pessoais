@@ -75,7 +75,7 @@ header li a{
 .sessao1{
     width: 100%;
     background-color: #472562;
-    padding: 25px 2%;
+    padding: 0px 2%;/*minuto 13:42*/
 }
 
 .texto-sessao1{
@@ -102,4 +102,12 @@ header li a{
 .texto-sessao1 ul li{
     float: left;
     width: 100%;
+}
+
+.device-sessao1{
+    float: left;
+    width: 50%;
+    height: 300px;
+    background-image: url('../imagens/vecteezy_smartphone-and-mobile-phone_11047522.png');
+    background-size: 100% auto;
 }
